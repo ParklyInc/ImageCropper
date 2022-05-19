@@ -18,7 +18,7 @@ Android Image Cropper
 
  ```
  dependencies {
-     api 'xyz.parkly.edmodo:android-image-cropper:2.8.+'
+     api 'xyz.parkly.edmodo:android-image-cropper:1.0.+'
  }
  ```
 
