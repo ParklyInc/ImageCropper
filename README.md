@@ -18,7 +18,7 @@ Android Image Cropper
 
  ```
  dependencies {
-     api 'com.theartofdev.edmodo:android-image-cropper:2.8.+'
+     api 'xyz.parkly.edmodo:android-image-cropper:2.8.+'
  }
  ```
 
@@ -77,7 +77,7 @@ Add this line to your Proguard config file
 2. Add `CropImageView` into your activity
  ```xml
  <!-- Image Cropper fill the remaining available height -->
- <com.theartofdev.edmodo.cropper.CropImageView
+ <xyz.parkly.edmodo.cropper.CropImageView
    xmlns:custom="http://schemas.android.com/apk/res-auto"
    android:id="@+id/cropImageView"
    android:layout_width="match_parent"
